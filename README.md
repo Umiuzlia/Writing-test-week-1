@@ -72,7 +72,8 @@ ada tiga cara menggunakan CSS, yaitu:
 2. Margin : merupakan ruang disekitar batas elemen.
 3. Padding : merupakan ruang atara batas elemen dan konten elemen.
 > ![alt text](umi.png)
-
+### Flexbox
+> adalah cara untuk mengatur tata letak (layout) secara otomatis. ![alt text](flex1.png) 
 # **ALGORITMA DAN PSEUDOCODE**
 ## Algoritma 
 > adalah deskripsi berupa step-step yang dibutuhkan untuk meyelesaikan suatu masalah. penyelesaian masalah suatu algoritma yaitu berasal dari sekumpulan data. kualitas suatu algoritma, yaitu:
