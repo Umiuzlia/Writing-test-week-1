@@ -1,5 +1,5 @@
 # **Unix Command Line**
-ada beberapa perintah pada saat menggunakan windows, mac, dan linux :
+ada beberapa perintah pada saat menggunakan windows, mac, dan linux: 
 
 | command | Description |
 | ----------- | ----------- |
